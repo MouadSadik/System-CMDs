@@ -97,7 +97,9 @@ Le serveur attend maintenant les connexions.
 Ouvrir un second terminal :
 
 ```bash
+Ctrl + Alt + F3
 ./chatc 127.0.0.1 5000
+Ctrl + Alt + F1
 ```
 
 Arguments :
